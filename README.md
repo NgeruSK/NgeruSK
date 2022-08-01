@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on mobile and embedded systems projects.
 - 📫 How to reach me 
 
-i. Twitter - https://twitter.com/ngeru_sk
-ii. LinkedIn - https://www.linkedin.com/in/simon-ngeru/
+- i. Twitter - https://twitter.com/ngeru_sk
+- ii. LinkedIn - https://www.linkedin.com/in/simon-ngeru/
 
 <!---
 NgeruSK/NgeruSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
